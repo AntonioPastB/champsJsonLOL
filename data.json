@@ -1,0 +1,662 @@
+[
+    {
+        "Nombre": "aatrox",
+        "Id": "266"
+    },
+    {
+        "Nombre": "ahri",
+        "Id": "103"
+    },
+    {
+        "Nombre": "akali",
+        "Id": "84"
+    },
+    {
+        "Nombre": "alistar",
+        "Id": "12"
+    },
+    {
+        "Nombre": "amumu",
+        "Id": "32"
+    },
+    {
+        "Nombre": "anivia",
+        "Id": "34"
+    },
+    {
+        "Nombre": "annie",
+        "Id": "1"
+    },
+    {
+        "Nombre": "aphelios",
+        "Id": "523"
+    },
+    {
+        "Nombre": "ashe",
+        "Id": "22"
+    },
+    {
+        "Nombre": "aurelionsol",
+        "Id": "136"
+    },
+    {
+        "Nombre": "azir",
+        "Id": "268"
+    },
+    {
+        "Nombre": "bard",
+        "Id": "432"
+    },
+    {
+        "Nombre": "blitzcrank",
+        "Id": "53"
+    },
+    {
+        "Nombre": "brand",
+        "Id": "63"
+    },
+    {
+        "Nombre": "braum",
+        "Id": "201"
+    },
+    {
+        "Nombre": "caitlyn",
+        "Id": "51"
+    },
+    {
+        "Nombre": "camille",
+        "Id": "164"
+    },
+    {
+        "Nombre": "cassiopeia",
+        "Id": "69"
+    },
+    {
+        "Nombre": "chogath",
+        "Id": "31"
+    },
+    {
+        "Nombre": "corki",
+        "Id": "42"
+    },
+    {
+        "Nombre": "darius",
+        "Id": "122"
+    },
+    {
+        "Nombre": "diana",
+        "Id": "131"
+    },
+    {
+        "Nombre": "draven",
+        "Id": "119"
+    },
+    {
+        "Nombre": "drmundo",
+        "Id": "36"
+    },
+    {
+        "Nombre": "ekko",
+        "Id": "245"
+    },
+    {
+        "Nombre": "elise",
+        "Id": "60"
+    },
+    {
+        "Nombre": "evelynn",
+        "Id": "28"
+    },
+    {
+        "Nombre": "ezreal",
+        "Id": "81"
+    },
+    {
+        "Nombre": "fiddlesticks",
+        "Id": "9"
+    },
+    {
+        "Nombre": "fiora",
+        "Id": "114"
+    },
+    {
+        "Nombre": "fizz",
+        "Id": "105"
+    },
+    {
+        "Nombre": "galio",
+        "Id": "3"
+    },
+    {
+        "Nombre": "gangplank",
+        "Id": "41"
+    },
+    {
+        "Nombre": "garen",
+        "Id": "86"
+    },
+    {
+        "Nombre": "gnar",
+        "Id": "150"
+    },
+    {
+        "Nombre": "gragas",
+        "Id": "79"
+    },
+    {
+        "Nombre": "graves",
+        "Id": "104"
+    },
+    {
+        "Nombre": "hecarim",
+        "Id": "120"
+    },
+    {
+        "Nombre": "heimerdinger",
+        "Id": "74"
+    },
+    {
+        "Nombre": "illaoi",
+        "Id": "420"
+    },
+    {
+        "Nombre": "irelia",
+        "Id": "39"
+    },
+    {
+        "Nombre": "ivern",
+        "Id": "427"
+    },
+    {
+        "Nombre": "janna",
+        "Id": "40"
+    },
+    {
+        "Nombre": "jarvaniv",
+        "Id": "59"
+    },
+    {
+        "Nombre": "jax",
+        "Id": "24"
+    },
+    {
+        "Nombre": "jayce",
+        "Id": "126"
+    },
+    {
+        "Nombre": "jhin",
+        "Id": "202"
+    },
+    {
+        "Nombre": "jinx",
+        "Id": "222"
+    },
+    {
+        "Nombre": "kaisa",
+        "Id": "145"
+    },
+    {
+        "Nombre": "kalista",
+        "Id": "429"
+    },
+    {
+        "Nombre": "karma",
+        "Id": "43"
+    },
+    {
+        "Nombre": "karthus",
+        "Id": "30"
+    },
+    {
+        "Nombre": "kassadin",
+        "Id": "38"
+    },
+    {
+        "Nombre": "katarina",
+        "Id": "55"
+    },
+    {
+        "Nombre": "kayle",
+        "Id": "10"
+    },
+    {
+        "Nombre": "kayn",
+        "Id": "141"
+    },
+    {
+        "Nombre": "kennen",
+        "Id": "85"
+    },
+    {
+        "Nombre": "khazix",
+        "Id": "121"
+    },
+    {
+        "Nombre": "kindred",
+        "Id": "203"
+    },
+    {
+        "Nombre": "kled",
+        "Id": "240"
+    },
+    {
+        "Nombre": "kogmaw",
+        "Id": "96"
+    },
+    {
+        "Nombre": "leblanc",
+        "Id": "7"
+    },
+    {
+        "Nombre": "leesin",
+        "Id": "64"
+    },
+    {
+        "Nombre": "leona",
+        "Id": "89"
+    },
+    {
+        "Nombre": "lillia",
+        "Id": "876"
+    },
+    {
+        "Nombre": "lissandra",
+        "Id": "127"
+    },
+    {
+        "Nombre": "lucian",
+        "Id": "236"
+    },
+    {
+        "Nombre": "lulu",
+        "Id": "117"
+    },
+    {
+        "Nombre": "lux",
+        "Id": "99"
+    },
+    {
+        "Nombre": "malphite",
+        "Id": "54"
+    },
+    {
+        "Nombre": "malzahar",
+        "Id": "90"
+    },
+    {
+        "Nombre": "maokai",
+        "Id": "57"
+    },
+    {
+        "Nombre": "masteryi",
+        "Id": "11"
+    },
+    {
+        "Nombre": "missfortune",
+        "Id": "21"
+    },
+    {
+        "Nombre": "monkeyking",
+        "Id": "62"
+    },
+    {
+        "Nombre": "mordekaiser",
+        "Id": "82"
+    },
+    {
+        "Nombre": "morgana",
+        "Id": "25"
+    },
+    {
+        "Nombre": "nami",
+        "Id": "267"
+    },
+    {
+        "Nombre": "nasus",
+        "Id": "75"
+    },
+    {
+        "Nombre": "nautilus",
+        "Id": "111"
+    },
+    {
+        "Nombre": "neeko",
+        "Id": "518"
+    },
+    {
+        "Nombre": "nidalee",
+        "Id": "76"
+    },
+    {
+        "Nombre": "nocturne",
+        "Id": "56"
+    },
+    {
+        "Nombre": "nunu",
+        "Id": "20"
+    },
+    {
+        "Nombre": "olaf",
+        "Id": "2"
+    },
+    {
+        "Nombre": "orianna",
+        "Id": "61"
+    },
+    {
+        "Nombre": "ornn",
+        "Id": "516"
+    },
+    {
+        "Nombre": "pantheon",
+        "Id": "80"
+    },
+    {
+        "Nombre": "poppy",
+        "Id": "78"
+    },
+    {
+        "Nombre": "pyke",
+        "Id": "555"
+    },
+    {
+        "Nombre": "qiyana",
+        "Id": "246"
+    },
+    {
+        "Nombre": "quinn",
+        "Id": "133"
+    },
+    {
+        "Nombre": "rakan",
+        "Id": "497"
+    },
+    {
+        "Nombre": "rammus",
+        "Id": "33"
+    },
+    {
+        "Nombre": "reksai",
+        "Id": "421"
+    },
+    {
+        "Nombre": "renekton",
+        "Id": "58"
+    },
+    {
+        "Nombre": "rengar",
+        "Id": "107"
+    },
+    {
+        "Nombre": "riven",
+        "Id": "92"
+    },
+    {
+        "Nombre": "rumble",
+        "Id": "68"
+    },
+    {
+        "Nombre": "ryze",
+        "Id": "13"
+    },
+    {
+        "Nombre": "samira",
+        "Id": "360"
+    },
+    {
+        "Nombre": "sejuani",
+        "Id": "113"
+    },
+    {
+        "Nombre": "senna",
+        "Id": "235"
+    },
+    {
+        "Nombre": "seraphine",
+        "Id": "147"
+    },
+    {
+        "Nombre": "sett",
+        "Id": "875"
+    },
+    {
+        "Nombre": "shaco",
+        "Id": "35"
+    },
+    {
+        "Nombre": "shen",
+        "Id": "98"
+    },
+    {
+        "Nombre": "shyvana",
+        "Id": "102"
+    },
+    {
+        "Nombre": "singed",
+        "Id": "27"
+    },
+    {
+        "Nombre": "sion",
+        "Id": "14"
+    },
+    {
+        "Nombre": "sivir",
+        "Id": "15"
+    },
+    {
+        "Nombre": "skarner",
+        "Id": "72"
+    },
+    {
+        "Nombre": "sona",
+        "Id": "37"
+    },
+    {
+        "Nombre": "soraka",
+        "Id": "16"
+    },
+    {
+        "Nombre": "swain",
+        "Id": "50"
+    },
+    {
+        "Nombre": "sylas",
+        "Id": "517"
+    },
+    {
+        "Nombre": "syndra",
+        "Id": "134"
+    },
+    {
+        "Nombre": "tahmkench",
+        "Id": "223"
+    },
+    {
+        "Nombre": "taliyah",
+        "Id": "163"
+    },
+    {
+        "Nombre": "talon",
+        "Id": "91"
+    },
+    {
+        "Nombre": "taric",
+        "Id": "44"
+    },
+    {
+        "Nombre": "teemo",
+        "Id": "17"
+    },
+    {
+        "Nombre": "thresh",
+        "Id": "412"
+    },
+    {
+        "Nombre": "tristana",
+        "Id": "18"
+    },
+    {
+        "Nombre": "trundle",
+        "Id": "48"
+    },
+    {
+        "Nombre": "tryndamere",
+        "Id": "23"
+    },
+    {
+        "Nombre": "twistedfate",
+        "Id": "4"
+    },
+    {
+        "Nombre": "twitch",
+        "Id": "29"
+    },
+    {
+        "Nombre": "udyr",
+        "Id": "77"
+    },
+    {
+        "Nombre": "urgot",
+        "Id": "6"
+    },
+    {
+        "Nombre": "varus",
+        "Id": "110"
+    },
+    {
+        "Nombre": "vayne",
+        "Id": "67"
+    },
+    {
+        "Nombre": "veigar",
+        "Id": "45"
+    },
+    {
+        "Nombre": "velkoz",
+        "Id": "161"
+    },
+    {
+        "Nombre": "vi",
+        "Id": "254"
+    },
+    {
+        "Nombre": "viktor",
+        "Id": "112"
+    },
+    {
+        "Nombre": "vladimir",
+        "Id": "8"
+    },
+    {
+        "Nombre": "volibear",
+        "Id": "106"
+    },
+    {
+        "Nombre": "warwick",
+        "Id": "19"
+    },
+    {
+        "Nombre": "xayah",
+        "Id": "498"
+    },
+    {
+        "Nombre": "xerath",
+        "Id": "101"
+    },
+    {
+        "Nombre": "xinzhao",
+        "Id": "5"
+    },
+    {
+        "Nombre": "yasuo",
+        "Id": "157"
+    },
+    {
+        "Nombre": "yone",
+        "Id": "777"
+    },
+    {
+        "Nombre": "yorick",
+        "Id": "83"
+    },
+    {
+        "Nombre": "yuumi",
+        "Id": "350"
+    },
+    {
+        "Nombre": "zac",
+        "Id": "154"
+    },
+    {
+        "Nombre": "zed",
+        "Id": "238"
+    },
+    {
+        "Nombre": "ziggs",
+        "Id": "115"
+    },
+    {
+        "Nombre": "zilean",
+        "Id": "26"
+    },
+    {
+        "Nombre": "zoe",
+        "Id": "142"
+    },
+    {
+        "Nombre": "zyra",
+        "Id": "143"
+    },
+    {
+        "Nombre": "viego",
+        "Id": "234"
+    } ,
+    {
+        "Nombre":"gwen",
+        "Id": "887"
+    }, 
+    {
+        "Nombre": "rell",
+        "Id": "526"
+    },
+    {
+        "Nombre": "akshan",
+        "Id": "166"
+    },
+    {
+        "Nombre":"vex",
+        "Id":"711"
+    },
+    {
+        "Nombre":"zeri",
+        "Id":"221"
+    },
+    {
+        "Nombre":"renata",
+        "Id":"888"
+    },
+    {
+        "Nombre":"belveth",
+        "Id":"200"
+    },
+    {
+        "Nombre":"nilah",
+        "Id":"895"
+    },
+    {
+        "Nombre":"ksante",
+        "Id":"897"
+    },
+    {
+        "Nombre":"milio",
+        "Id":"902"
+    },
+    {
+        "Nombre":"naafiri",
+        "Id":"950"
+    },
+    {
+        "Nombre":"Briar",
+        "Id":"233"
+    }
+]
